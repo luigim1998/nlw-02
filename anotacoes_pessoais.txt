@@ -1,0 +1,3 @@
+O comando "npm init -y" inicia o projeto no diretório atual.
+O argumento "-D" do "node install nodemon -D" significa que o pacote serve somente para desenvolvimento
+Para usar o nodemon, insira o comando "nodemon src/server.js" no scripts do package.json e execute npm run NOME_DO_SCRIPT
